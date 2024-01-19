@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bernardjoshi
+- 👀 I’m interested in Programing & ethical hacking
+- 🌱 I’m currently learning React
